@@ -12,14 +12,14 @@ main:
 #    url: /roadmap/
 #  - title: "문제 해결"
 #    url: /tags/#문제-해결
-  - title: "웹개발"
-    url: /tags/#웹개발
-  - title: "서평"
-    url: /tags/#서평
-  - title: "태그"
-    url: /tags/
-  - title: "카테고리"
-    url: /categories/
+  - title: "웹 개발자"
+    url: /categories/#web
+  - title: "책 서평러"
+    url: /categories/#서평
+#  - title: "태그"
+#    url: /tags/
+#  - title: "카테고리"
+#    url: /categories/
 #   - title: "태그"
 #     url: /tags/
   # - title: "연도별"
