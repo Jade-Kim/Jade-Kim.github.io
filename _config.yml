@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "default" # "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "en-US"
-title                    : "개발자 Jade"
+title                    : "책 읽는 개발자 Jade"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "김정현(Jade Kim)"
-description              : "프로젝트 경험, 개발 공부 드을 기록하며 웹 개발자로 성장하는 공간"
+name                     : "Jade"
+description              : "웹 개발자 & 책 서평러로 성장하는 공간"
 url                      : "https://jade-kim.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jade-Kim/Jade-Kim.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "김정현 (Jade Kim)"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Frontend & Hybrid App Developer"
+  bio              : "Web Developer & Reader"
   location         : "USA, Korea"
   email            : "jadekim925@gmail.com"
   links:
